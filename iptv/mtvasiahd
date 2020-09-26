@@ -1,0 +1,5 @@
+#EXTM3U 
+#EXT-X-VERSION:3
+#EXTVLCOPT:http-user-agent="burhan.tv/9.6 (Linux;Android 7.1.2) ExoPlayerLib/2.8.4"
+#EXT-X-STREAM-INF:PROGRAM-ID=1,CLOSED-CAPTIONS=NONE,BANDWIDTH=625000,NAME=720p,RESOLUTION=1080x720
+http://unilivemtveu-lh.akamaihd.net/i/mtvno_1@346424/master.m3u8
