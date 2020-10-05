@@ -1,0 +1,31 @@
+#EXTM3U 
+#EXTINF: -1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_horee_small.png" group-title="KIDS (USEETV)", [MKC] Horee
+https://mkctv.net/usetvvv/horee.m3u8
+#EXTINF: -1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_boomerang_small.png" group-title="KIDS (USEETV)", [MKC] Boomerang
+https://mkctv.net/usetvvv/boomerang.m3u8
+#EXTINF: -1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_cartoonnetwork_small.png" group-title="KIDS (USEETV)", [MKC] Cartoon Network
+https://mkctv.net/usetvvv/cartoon.m3u8
+#EXTINF: -1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_nickjr_small.png" group-title="KIDS (USEETV)", [MKC] Nick Junior
+https://mkctv.net/usetvvv/nickjr.m3u8
+#EXTINF: -1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_nickelodeon_small.png" group-title="KIDS (USEETV)", [MKC] Nickelodeon
+https://mkctv.net/usetvvv/nick.m3u8
+#EXTINF: -1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_mykids_small.png" group-title="KIDS (USEETV)", [MKC] My Kids
+https://mkctv.net/usetvvv/mykids.m3u8
+#EXTINF: -1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_dreamworks_small1.png" group-title="KIDS (USEETV)", [MKC] Dreamworks HD
+https://mkctv.net/usetvvv/dreamwork.m3u8
+#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/0/07/History_channel_us.png" group-title="KNOWLEDGE (USEETV)", Histori
+https://mkctv.net/usetvvv/histori.m3u8
+#EXTINF: -1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_natgeo_small.png" group-title="KNOWLEDGE (USEETV)", [MKC] Nat Geo HD
+https://mkctv.net/usetvvv/natgeo.m3u8
+#EXTINF: -1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_natgeopeople_small.png" group-title="KNOWLEDGE (USEETV)", [MKC] Nat Geo People HD
+https://mkctv.net/usetvvv/ngp.m3u8
+#EXTINF: -1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_natgeowild_small.png" group-title="KNOWLEDGE (USEETV)", [MKC] Nat Geo Wild HD
+https://mkctv.net/usetvvv/ngw.m3u8
+#EXTINF: -1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_discovery_small.png" group-title="KNOWLEDGE (USEETV)", [MKC] Discovery Channel HD
+https://mkctv.net/usetvvv/disco.m3u8
+#EXTINF: -1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_sone_small1.png" group-title="KOREA", [MKC] SONE SD
+https://mkctv.net/usetvvv/sone.m3u8
+#EXTINF: -1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_tvnmoviews_small.png" group-title="KOREA", [MKC] TVN Movies HD
+https://mkctv.net/usetvvv/tvnm.m3u8
+#EXTINF: -1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_tvn_small.png" group-title="KOREA", [MKC] TVN HD
+https://mkctv.net/usetvvv/tvn.m3u8
