@@ -1,3 +1,4 @@
 #EXTM3U
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=3627000,RESOLUTION=1280x720,CODECS="avc1.64001f, mp4a.40.2"
-http://unilivemtveu-lh.akamaihd.net/i/mtvno_1@346424/index_3500_av-b.m3u8?sd=10&rebase=on
+#EXTVLCOPT:http-user-agent="stream ottnav_1.6.2.8/3.1.1 (Linux)"
+https://mkctv.net/kelepon/natgeo.m3u8
